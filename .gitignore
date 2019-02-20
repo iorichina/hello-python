@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.vscode
+snake/pygame
+snake/pygame-1.9.4.dist-info
